@@ -1,0 +1,4 @@
+wordlist=UKACD17.TXT
+#url=https://www.wordnik.com/words/%word%
+url=http://www.wordreference.com/definition/%word%
+maxhistory=30

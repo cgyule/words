@@ -1,0 +1,13 @@
+chkAnagram=y
+chkDeletion=n
+chkDoAll=n
+chkSubst=n
+chkInsertion=n
+chkUseDiacritic=n
+numMutations=0
+wordList=ukacd17.txt
+digramFile=english_filt.txt
+lasturl=http://www.dictionary.com/browse/%word%
+pattern=
+letters=
+urlHistory=

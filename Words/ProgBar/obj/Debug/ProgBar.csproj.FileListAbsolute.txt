@@ -1,0 +1,10 @@
+C:\Charles\Words\Words\ProgBar\bin\Debug\ProgBar.exe.config
+C:\Charles\Words\Words\ProgBar\bin\Debug\ProgBar.exe
+C:\Charles\Words\Words\ProgBar\bin\Debug\ProgBar.pdb
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.csprojAssemblyReference.cache
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.FormProg.resources
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.Properties.Resources.resources
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.csproj.GenerateResource.cache
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.csproj.CoreCompileInputs.cache
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.exe
+C:\Charles\Words\Words\ProgBar\obj\Debug\ProgBar.pdb
