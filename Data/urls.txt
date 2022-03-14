@@ -12,7 +12,7 @@ https://www.wordnik.com/words/%word%
 https://www.powerthesaurus.org/%word%/synonyms
 https://dvlf.uchicago.edu/mot/%word%
 https://dictionary.cambridge.org/dictionary/french-english/%word%
-https://dictionary.cambridge.org/dictionary/spanishh-english/%word%
+https://dictionary.cambridge.org/dictionary/spanish-english/%word%
 https://dictionary.cambridge.org/dictionary/italian-english/%word%
 https://dictionary.cambridge.org/dictionary/german-english/%word%
 
